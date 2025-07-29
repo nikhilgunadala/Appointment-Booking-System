@@ -1,0 +1,9 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+@import "flatpickr/dist/flatpickr.min.css";
+// Your other imports like Bootstrap...
+
+// Your custom styles will go below
+body {
+    font-family: sans-serif; // Or your chosen font
+}
